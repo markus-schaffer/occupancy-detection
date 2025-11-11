@@ -34,7 +34,6 @@ Most data used is publicly available and automatically downloaded via the script
 
     | water_meter_id | customer_id | time_rounded | water_colume_m3 |
     |:----------------|:-------------|:--------------|:-----------------|
-    | ||||
 
 ## Bibtext
 

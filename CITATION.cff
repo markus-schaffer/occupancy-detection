@@ -1,0 +1,29 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated research article below."
+title: "Occupancy Detection"
+version: "1.0.0"
+date-released: 2025-11-11
+url: "https://github.com/markus-schaffer/occupancy-detection"
+authors:
+  - family-names: "Schaffer"
+    given-names: "Markus"
+    orcid: "https://orcid.org/0000-0003-3972-413X"
+preferred-citation:
+  type: article
+  title: "Non-intrusive hourly occupancy detection in residential buildings using remotely readable water meter data: Validation and large-scale analysis"
+  authors:
+    - family-names: "Schaffer"
+      given-names: "Markus"
+      orcid: "https://orcid.org/0000-0003-3972-413X"
+    - family-names: "Vera-Valdés"
+      given-names: "J. Eduardo"
+      orcid: "https://orcid.org/0000-0002-0337-8055"
+    - family-names: "Marszal-Pomianowska"
+      given-names: "Anna"
+      orcid: "https://orcid.org/0000-0002-3195-7388"
+  journal: "Building and Environment"
+  year: 2025
+  start: 113917
+  doi: "10.1016/j.buildenv.2025.113917"
+  url: "https://www.sciencedirect.com/science/article/pii/S0360132325013873"

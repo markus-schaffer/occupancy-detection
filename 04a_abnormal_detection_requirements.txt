@@ -1,0 +1,7 @@
+ipython==8.27.0
+kneed==0.8.5
+numpy==2.3.4
+pandas==2.3.3
+scikit_learn==1.7.2
+tqdm==4.66.5
+traitlets==5.14.3
